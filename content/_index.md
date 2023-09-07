@@ -86,6 +86,22 @@ sections:
               * Analyzed data for bulk mRNA-Seq and total RNA-Seq for Bam files, FPKM value, and differential expression comparison using Python and R
               * Built up Laboratory Information Management System (LIMS) to increase work efficiency and reduce biological errors
         - title: Research Scientist
+          company: The University of Texas Health Science Center
+          company_url: ''
+          company_logo: org-gc
+          location: Houston Tx
+          date_start: '2016-01-01'
+          date_end: '2019-12-31'
+          description: |2-
+              Project: Functional neuronal differentiation of injury-induced muscle-derived stem cell-like cells with therapeutic implications
+
+              * Injured skeletal muscle stem cells (iMuSCs) from TA muscle were isolated using the preplating method
+              * Performed quantification by qPCR and checked for quality using Agilent TapeStation
+              * Denatured sample and loaded flow cell into cartrage in sequencing instruments (NovaSeq 6000, NextSeq 500, HiSeq 4000/3000, MiSeq500/550, iSeq 100)
+              * De-multiplexed and converted the base-call data to fastq file. 
+              * Analyzed data for bulk mRNA-Seq and total RNA-Seq for Bam files, FPKM value, and differential expression comparison using Python and R
+              * Built up Laboratory Information Management System (LIMS) to increase work efficiency and reduce biological errors
+        - title: Research Scientist
 
           company: The University of Texas Health Science Center
           company_url: ''
