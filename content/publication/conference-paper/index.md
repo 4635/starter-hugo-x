@@ -1,12 +1,12 @@
 ---
-title: 'An example conference paper'
+title: 'αv integrins on mesenchymal cells regulate skeletal and cardiac muscle fibrosis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  # - Robert Ford
 
 # Author notes (optional)
 author_notes:
@@ -17,7 +17,7 @@ date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2017-10-24T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Mesenchymal cells expressing platelet-derived growth factor receptor beta (PDGFRβ) are known to be important in fibrosis of organs such as the liver and kidney. Here we show that PDGFRβ+ cells contribute to skeletal muscle and cardiac fibrosis via a mechanism that depends on αv integrins. Mice in which αv integrin is depleted in PDGFRβ+ cells are protected from cardiotoxin and laceration-induced skeletal muscle fibrosis and angiotensin II-induced cardiac fibrosis. In addition, a small-molecule inhibitor of αv integrins attenuates fibrosis, even when pre-established, in both skeletal and cardiac muscle, and improves skeletal muscle function. αv integrin blockade also reduces TGFβ activation in primary human skeletal muscle and cardiac PDGFRβ+ cells, suggesting that αv integrin inhibitors may be effective for the treatment and prevention of a broad range of muscle fibroses.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
