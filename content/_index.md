@@ -80,11 +80,11 @@ sections:
               Responsibilities include:
 
               * Executed RNA library preparation, including TruSeq stranded total RNA, TruSeq stranded mRNA, low input mRNA, and low input total RNA
-              * Performed quantification by qPCR and checked for quality using Agilent TapeStation
-              * Denatured sample and loaded flow cell into cartrage in sequencing instruments (NovaSeq 6000, NextSeq 500, HiSeq 4000/3000, MiSeq500/550, iSeq 100)
+              * Performed quantification by qPCR and checked for quality using Agilent TapeStation.
+              * Denatured sample and loaded flow cell into cartrage in sequencing instruments (NovaSeq 6000, NextSeq 500, HiSeq 4000/3000, MiSeq500/550, iSeq 100).
               * De-multiplexed and converted the base-call data to fastq file. 
-              * Analyzed data for bulk mRNA-Seq and total RNA-Seq for Bam files, FPKM value, and differential expression comparison using Python and R
-              * Built up Laboratory Information Management System (LIMS) to increase work efficiency and reduce biological errors
+              * Analyzed data for bulk mRNA-Seq and total RNA-Seq for Bam files, FPKM value, and differential expression comparison using Python and R.
+              * Built up Laboratory Information Management System (LIMS) to increase work efficiency and reduce biological errors.
         - title: Research Scientist
           company: The University of Texas Health Science Center
           company_url: ''
@@ -95,12 +95,11 @@ sections:
           description: |2-
               Project: Functional neuronal differentiation of injury-induced muscle-derived stem cell-like cells with therapeutic implications
 
-              * Injured skeletal muscle stem cells (iMuSCs) from TA muscle were isolated using the preplating method
-              * Performed quantification by qPCR and checked for quality using Agilent TapeStation
-              * Denatured sample and loaded flow cell into cartrage in sequencing instruments (NovaSeq 6000, NextSeq 500, HiSeq 4000/3000, MiSeq500/550, iSeq 100)
-              * De-multiplexed and converted the base-call data to fastq file. 
-              * Analyzed data for bulk mRNA-Seq and total RNA-Seq for Bam files, FPKM value, and differential expression comparison using Python and R
-              * Built up Laboratory Information Management System (LIMS) to increase work efficiency and reduce biological errors
+              * Injured skeletal muscle stem cells (iMuSCs) from TA muscle were isolated using the preplating method.
+              * Undifferentiated iMuSCs were cultured in the Neural Stem Cell medium to form the neurosphere, confirmed by immunocytochemistry and qPCR on neuronal marker expression.
+              * The iMuSCs in neurogenic differentiation medium could induce mature and functional neural phenotypes, evaluated by whole-cell patch-clamp recording.
+              * Transplantation of iMuSCs into mdx mice (a murine model representing Duchenne Muscular Dystrophy) were harvested for histological and qPCR analysis 1 and 3 weeks after injection. 
+              * Transplantation of iMuSCs and iMuSC extract in mdx mice improved neuromuscular junction morphology by more dense aggregates and number of segments of ACHRs.
         - title: Postdoctoral fellowship
           company: The University of Houston 
           company_url: ''
@@ -111,27 +110,28 @@ sections:
           description: |2-
               Project: Screening and characterization of small molecular inhibitors of oncogenes or genes, such as MDM2, MDMX, β-catenin both in vitro and in mice model
 
-              * Cell lines : NB1691 (mdm2 amp, p53 wt), NB1643, LA1-55N (mdm2 amp, p53 null, MYCN amp), LA1-5S (mdm2 OE, p53 null), NB1 (MYCN amp, alk amp, p53 wt), HepG2, Huh7 Hep3B, U87MG-Luc, were cultured for drug batch
-              * Cell viability assay (by MTT or cell number counting), apoptosis assy, qPCR, and western blot were examined
-              * xenograft, orthotopic, and patient-derived xenograft (PDX) (4~6 wks mice, NB1691-Luc), and dose and routes: 40mg/kg/day (i.p.) were applied
-              * Various tissues (lungs, brain, heart, liver, spleen, GI, and kidneys) were removed, fixed, cryosectioned, (H&E) stained, and performed immunohistochemistry
-              * The extracted organs and tissues were examined by qPCR and western blot
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Cell lines : NB1691 (mdm2 amp, p53 wt), NB1643, LA1-55N (mdm2 amp, p53 null, MYCN amp), LA1-5S (mdm2 OE, p53 null), NB1 (MYCN amp, alk amp, p53 wt), HepG2, Huh7 Hep3B, U87MG-Luc, were cultured for drug batch.
+              * Cell viability assay (by MTT or cell number counting), apoptosis assy, qPCR, and western blot were examined.
+              * xenograft, orthotopic, and patient-derived xenograft (PDX) (4~6 wks mice, NB1691-Luc), and dose and routes: 40mg/kg/day (i.p.) were applied.
+              * Various tissues (lungs, brain, heart, liver, spleen, GI, and kidneys) were removed, fixed, cryosectioned, (H&E) stained, and performed immunohistochemistry.
+              * The extracted organs and tissues were examined by qPCR and western blot.
+        - title: Ph.D student
+          company: The University of Tokyo
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-gc
+          location: Houston Tx
+          date_start: '2009-04-01'
+          date_end: '2013-03-31'
+          description: |2-
+              Project: Regulation of Dendritic Development and Synaptogenesis in Hippocampal Neurons by Dlx transcription Factors
+
+              * Primary hippocampal neurons from E16.5 of mice were cultured and plated on coverslips or glass bottom dishes.
+              * cDNA cloning of transcriptional factor Dlx family genes and Dlx1 truncated mutants were made.
+              * shRNA and siRNA of downstream genes such as PAK3 and Npn-2 were constructed.
+              * Expression plasmids of Dlx-related cDNA, PAK3, and Npn-2, together with pGFP-N1 were cotransfected in hippocampal neuronal culture at various days in vitro.
+              * Inhibitory neurons, excitatory neurons, and postsynaptic marker proteins such as PSD95, GAD67, MAP2, CaMKII were fixed and immunostained
+              * Neuronal axon, dendrites, spine, and postsynaptic densities were captured under the epifluorescence microscope.
+              * Total PSD95 clusters on dendrites were measured by integrated morphometry analysis using ImageJ, and total dendrite/axon lengths were traced and quantified by Sholl analysis.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
