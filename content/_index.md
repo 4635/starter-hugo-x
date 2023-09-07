@@ -69,20 +69,47 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Sr. Research Scientist
+          company: The University of Texas MD Anderson Cancer Center
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Houston Tx
+          date_start: '2020-02-01'
+          date_end: '2023-02-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Executed RNA library preparation, including TruSeq stranded total RNA, TruSeq stranded mRNA, low input mRNA, and low input total RNA
+              * Performed quantification by qPCR and checked for quality using Agilent TapeStation
+              * Denatured sample and loaded flow cell into cartrage in sequencing instruments (NovaSeq 6000, NextSeq 500, HiSeq 4000/3000, MiSeq500/550, iSeq 100)
+              * De-multiplexed and converted the base-call data to fastq file. 
+              * Analyzed data for bulk mRNA-Seq and total RNA-Seq for Bam files, FPKM value, and differential expression comparison using Python and R
+              * Built up Laboratory Information Management System (LIMS) to increase work efficiency and reduce biological errors
         - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+          - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+          - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
+          - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
           company_logo: org-x
