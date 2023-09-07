@@ -101,23 +101,7 @@ sections:
               * De-multiplexed and converted the base-call data to fastq file. 
               * Analyzed data for bulk mRNA-Seq and total RNA-Seq for Bam files, FPKM value, and differential expression comparison using Python and R
               * Built up Laboratory Information Management System (LIMS) to increase work efficiency and reduce biological errors
-        - title: Research Scientist
-
-          company: The University of Texas Health Science Center
-          company_url: ''
-          company_logo: org-x
-          location: Houston Tx
-          date_start: '2016-01-01'
-          date_end: '2019-12-31'
-          description: |2-
-              Project: Functional neuronal differentiation of injury-induced muscle-derived stem cell-like cells with therapeutic implications
-
-              * Injured skeletal muscle stem cells (iMuSCs) from TA muscle were isolated using the preplating method.
-              * Undifferentiated iMuSCs were cultured in the Neural Stem Cell medium to form the neurosphere, confirmed by immunocytochemistry and qPCR on neuronal marker expression.
-              * The iMuSCs in neurogenic differentiation medium could induce mature and functional neural phenotypes, evaluated by whole-cell patch-clamp recording.
-              * Transplantation of iMuSCs into mdx mice (a murine model representing Duchenne Muscular Dystrophy) were harvested for histological and qPCR analysis 1 and 3 weeks after injection.
-              * Transplantation of iMuSCs and iMuSC extract in mdx mice improved neuromuscular junction morphology by more dense aggregates and number of segments of ACHRs.
-        - title: Research ScientistTaught electronic engineering and researched semiconductor physics.
+      
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
