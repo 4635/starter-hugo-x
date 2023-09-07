@@ -58,6 +58,7 @@ sections:
           icon: camera-retro
           icon_pack: fas
   - block: experience
+    id: Experience
     content:
       title: Experience
       # Date format for experience
