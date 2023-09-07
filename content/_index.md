@@ -111,9 +111,9 @@ sections:
           description: |2-
               Project: Screening and characterization of small molecular inhibitors of oncogenes or genes, such as MDM2, MDMX, β-catenin both in vitro and in mice model
 
-              (1)	Cell lines : NB1691 (mdm2 amp, p53 wt), NB1643, LA1-55N (mdm2 amp, p53 null, MYCN amp), LA1-5S (mdm2 OE, p53 null), NB1 (MYCN amp, alk amp, p53 wt), HepG2, Huh7 Hep3B, U87MG-Luc, were cultured for drug batch
+              * Cell lines : NB1691 (mdm2 amp, p53 wt), NB1643, LA1-55N (mdm2 amp, p53 null, MYCN amp), LA1-5S (mdm2 OE, p53 null), NB1 (MYCN amp, alk amp, p53 wt), HepG2, Huh7 Hep3B, U87MG-Luc, were cultured for drug batch
               * Cell viability assay (by MTT or cell number counting), apoptosis assy, qPCR, and western blot were examined
-              (2)	xenograft, orthotopic, and patient-derived xenograft (PDX) (4~6 wks mice, NB1691-Luc), and dose and routes: 40mg/kg/day (i.p.) were applied
+              * xenograft, orthotopic, and patient-derived xenograft (PDX) (4~6 wks mice, NB1691-Luc), and dose and routes: 40mg/kg/day (i.p.) were applied
               * Various tissues (lungs, brain, heart, liver, spleen, GI, and kidneys) were removed, fixed, cryosectioned, (H&E) stained, and performed immunohistochemistry
               * The extracted organs and tissues were examined by qPCR and western blot
         - title: Professor of Semiconductor Physics
