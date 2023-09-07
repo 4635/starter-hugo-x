@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaojing Dai is a Research Scientist in Computer Science at the University of Texas MD Anderson Cancer Center, under the pioneer department of Advanced Genomic Technology Core. She led the SOP, developing laboratory information management systems for advanced genomics sequencing and cell-based assays. She also worked as a research scientist at the University of Texas Health Science Center before her latest role. Before joining UT at MD Anderson, she earned her Ph.D. in the Neuroscience Program at The University of Tokyo and an M.D. from Ningxia Medical University in China. She is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at Georgia Institute of Technology (GaTech). Her research interests lie in AI for digital pathology, code structure learning, single-cell sequencing in software engineering in health, and medical imaging.
 {style="text-align: justify;"}
