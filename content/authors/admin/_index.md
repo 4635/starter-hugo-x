@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Xiaojing Dai 戴晓婧
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Xiaojing
+last_name: Dai
 
 # Status emoji
 status:
@@ -14,33 +14,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Sr. Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Texas MD Anderson Cancer Center
+    url: https://www.mdanderson.org/research/research-resources/core-facilities/advanced-technology-genomics-core.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Xiaojing Dai is a Research Scientist in Computer Science at the University of Texas MD Anderson Cancer Center, under the pioneer department of Advanced Genomic Technology Core. She led the SOP, developing laboratory information management systems for advanced genomics sequencing and cell-based assays. She also worked as a research scientist at the University of Texas Health Science Center before her latest role. Before joining UT at MD Anderson, she earned her Ph.D. in the Neuroscience Program at The University of Tokyo and an M.D. from Ningxia Medical University in China. She is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at Georgia Institute of Technology (GaTech). Her research interests lie in AI for digital pathology, code structure learning, single-cell sequencing in software engineering in health, and medical imaging.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Neuroscience
+  - Brain Computer Interface
+  - Artificial Intelligence in Healthcare
+  - Digital Pathology
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Molecular and Cellular Neurobiology
+      institution: University of Tokyo
+      year: 2013
+    - course: M.Sc. in Computer Science (Computing Systems)
+      institution: Georgia Institute of Technology
+      year: 2023
+    - course: Doctoral of Medicine (MD) 
+      institution: Ningxia Medical University
       year: 2008
 
 # Social/Academic Networking
@@ -53,19 +53,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/hellodocx
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=jpMpyKwAAAAJ&view_op=list_works&authuser=1&gmla=AP6z3OYnjmlUph8TIRQsEaXPifDMMia4ESIghGesgxNjtu3dIr8W2tYEbDrBQtY5yAwC9FmwWJkhbR2gi1ZJpyktJQHIUo9guGuYow
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xiaojing-dai-b97925157/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
