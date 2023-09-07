@@ -108,7 +108,7 @@ sections:
           location: Houston Tx
           date_start: '2014-01-01'
           date_end: '2015-12-31'
-          description: |2-
+          description: |3-
               Project: Screening and characterization of small molecular inhibitors of oncogenes or genes, such as MDM2, MDMX, β-catenin both in vitro and in mice model
 
               (1)	Cell lines : NB1691 (mdm2 amp, p53 wt), NB1643, LA1-55N (mdm2 amp, p53 null, MYCN amp), LA1-5S (mdm2 OE, p53 null), NB1 (MYCN amp, alk amp, p53 wt), HepG2, Huh7 Hep3B, U87MG-Luc, were cultured for drug batch
