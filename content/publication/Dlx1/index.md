@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Dlx1 transcription factor regulates dendritic growth and postsynaptic differentiation through inhibition of neuropilin-2 and PAK3 expression"
 authors:
 - admin
-- Robert Ford
+# - Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2013-11-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2013-11-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*European Journal of Neuroscience, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Dlx1, a member of the homeobox domain transcriptional factors, is expressed in a subset of interneurons and is involved in their differentiation. To understand the roles of Dlx1 in dendritic and postsynaptic differentiation, we manipulated Dlx1 expression in both excitatory pyramidal neurons and inhibitory interneurons in hippocampal culture. Exogenous expression of Dlx1 in pyramidal neurons, which lack endogenous Dlx1, resulted in reduced complexity of dendritic arborization. This effect was dependent on the DNA-binding motif of Dlx1. Dlx1 overexpression also induced prominent reduction of spine density, but with mild suppression in the formation of postsynaptic densities. To confirm the roles of endogenous Dlx1, we knocked down Dlx1 in interneurons and found enhanced dendritic growth. By manipulating the expression of possible downstream effectors of Dlx1, neuropilin-2 and p21-activated kinase 3, we provided evidence for the involvement of these two signaling molecules in Dlx1-dependent regulation of dendritic differentiation. Our experimental data support the idea that Dlx1 expression in developing interneurons specifically suppresses two important downstream regulators, leading to the characteristic morphology of Dlx1-expressing interneurons with less branched dendrites and few dendritic spines.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/ejn.12413'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -65,7 +65,7 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -73,4 +73,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
