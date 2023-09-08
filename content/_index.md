@@ -73,7 +73,7 @@ sections:
         - title: Sr. Research Scientist
           company: The University of Texas MD Anderson Cancer Center
           company_url: ''
-          company_logo: org-gc
+          company_logo: MDD
           location: Houston Tx
           date_start: '2020-02-01'
           date_end: '2023-01-01'
@@ -89,7 +89,7 @@ sections:
         - title: Research Scientist
           company: The University of Texas Health Science Center
           company_url: ''
-          company_logo: org-gc
+          company_logo: ut
           location: Houston Tx
           date_start: '2016-01-01'
           date_end: '2019-12-31'
@@ -104,7 +104,7 @@ sections:
         - title: Postdoctoral fellowship
           company: The University of Houston 
           company_url: ''
-          company_logo: org-gc
+          company_logo: uh
           location: Houston Tx
           date_start: '2014-01-01'
           date_end: '2015-12-31'
