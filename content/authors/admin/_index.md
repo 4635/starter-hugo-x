@@ -22,12 +22,13 @@ organizations:
     url: https://www.mdanderson.org/research/research-resources/core-facilities/advanced-technology-genomics-core.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Xiaojing Dai is a Research Scientist in Computer Science at the University of Texas MD Anderson Cancer Center, under the pioneer department of Advanced Genomic Technology Core. She led the SOP, developing laboratory information management systems for advanced genomics sequencing and cell-based assays. She also worked as a research scientist at the University of Texas Health Science Center before her latest role. Before joining UT at MD Anderson, she earned her Ph.D. in the Neuroscience Program at The University of Tokyo and an M.D. from Ningxia Medical University in China. She is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at Georgia Institute of Technology (GaTech). Her research interests lie in AI for digital pathology, code structure learning, single-cell sequencing in software engineering in health, and medical imaging.
+bio: Xiaojing Dai is a Research Scientist at the University of Texas MD Anderson Cancer Center, under the pioneer department of Advanced Genomic Technology Core. She led the SOP, developing laboratory information management systems for advanced genomics sequencing and cell-based assays. She also worked as a research scientist at the University of Texas Health Science Center before her latest role. Before joining UT at MD Anderson, she earned her Ph.D. in the Neuroscience Program at The University of Tokyo and an M.D. from Ningxia Medical University in China. She is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at Georgia Institute of Technology (GaTech). Her research interests lie in AI for digital pathology, code structure learning, single-cell sequencing in software engineering in health, and medical imaging.
 
 # Interests to show in About widget
 interests:
+  - Multi-omics analysis
+  - Gene theray
   - Neuroscience
-  - Brain Computer Interface
   - Artificial Intelligence in Healthcare
   - Digital Pathology
 # Education to show in About widget
@@ -80,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Xiaojing Dai is a Research Scientist in Computer Science at the University of Texas MD Anderson Cancer Center, under the pioneer department of Advanced Genomic Technology Core. She led the SOP, developing laboratory information management systems for advanced genomics sequencing and cell-based assays. She also worked as a research scientist at the University of Texas Health Science Center before her latest role. Before joining UT at MD Anderson, she earned her Ph.D. in the Neuroscience Program at The University of Tokyo and an M.D. from Ningxia Medical University in China. She is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at Georgia Institute of Technology (GaTech). Her research interests lie in AI for digital pathology, code structure learning, single-cell sequencing in software engineering in health, and medical imaging.
+Xiaojing Dai is a Research Scientist  at the University of Texas MD Anderson Cancer Center, under the pioneer department of Advanced Genomic Technology Core. She led the SOP, developing laboratory information management systems for advanced genomics sequencing and cell-based assays. She also worked as a research scientist at the University of Texas Health Science Center before her latest role. Before joining UT at MD Anderson, she earned her Ph.D. in the Neuroscience Program at The University of Tokyo and an M.D. from Ningxia Medical University in China. She is also jointly pursuing the Online Master of Science in Computer Science (OMSCS) at Georgia Institute of Technology (GaTech). Her research interests lie in AI for digital pathology, code structure learning, single-cell sequencing in software engineering in health, and medical imaging.
 {style="text-align: justify;"}
