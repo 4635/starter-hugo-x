@@ -63,7 +63,7 @@ url_pdf: https://www.nature.com/articles/s41467-017-01097-z
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-# ---
+---
 
 # <!-- {{% callout note %}}
 # Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
