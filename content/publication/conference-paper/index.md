@@ -84,4 +84,4 @@ url: http://example.org
 # Create your slides in Markdown - click the _Slides_ button to check out the example.
 # {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
