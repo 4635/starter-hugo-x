@@ -88,7 +88,7 @@ sections:
               * Built up Laboratory Information Management System (LIMS) to increase work efficiency and reduce biological errors.
         - title: Research Scientist
           company: The University of Texas Health Science Center
-          company_url: ''
+          company_url: 'https://www.uth.edu/'
           company_logo: ut
           location: Houston Tx
           date_start: '2016-01-01'
@@ -103,7 +103,7 @@ sections:
               * Transplantation of iMuSCs and iMuSC extract in mdx mice improved neuromuscular junction morphology by more dense aggregates and number of segments of ACHRs.
         - title: Postdoctoral fellowship
           company: The University of Houston 
-          company_url: ''
+          company_url: 'https://www.uh.edu/'
           company_logo: uh
           location: Houston Tx
           date_start: '2014-01-01'
@@ -118,8 +118,8 @@ sections:
               * The extracted organs and tissues were examined by qPCR and western blot.
         - title: Ph.D student
           company: The University of Tokyo
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://www.u-tokyo.ac.jp/en/'
+          company_logo: tokyo
           location: Houston Tx
           date_start: '2009-04-01'
           date_end: '2013-03-31'
