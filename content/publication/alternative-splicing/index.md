@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Alternative splicing: An important mechanism in stem cell biology"
 authors:
 - admin
-- Robert Ford
+# - Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2015-01-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2015-01-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,20 +22,20 @@ publication_types: ["2"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Alternative splicing (AS) is an essential mechanism in post-transcriptional regulation and leads to protein diversity. It has been shown that AS is prevalent in metazoan genomes, and the splicing pattern is dynamically regulated in different tissues and cell types, including embryonic stem cells. These observations suggest that AS may play critical roles in stem cell biology. Since embryonic stem cells and induced pluripotent stem cells have the ability to give rise to all types of cells and tissues, they hold the promise of future cell-based therapy. Many efforts have been devoted to understanding the mechanisms underlying stem cell self-renewal and differentiation. However, most of the studies focused on the expression of a core set of transcription factors and regulatory RNAs. The role of AS in stem cell differentiation was not clear. Recent advances in high-throughput technologies have allowed the profiling of dynamic splicing patterns and cis-motifs that are responsible for AS at a genome-wide scale, and provided novel insights in a number of studies. In this review, we discuss some recent findings involving AS and stem cells. An emerging picture from these findings is that AS is integrated in the transcriptional and post-transcriptional networks and together they control pluripotency maintenance and differentiation of stem cells.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
 featured: false
 
-# links:
+links: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4300919/
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -65,7 +65,7 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -73,4 +73,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
