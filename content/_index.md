@@ -73,7 +73,7 @@ sections:
         - title: Sr. Research Scientist
           company: The University of Texas MD Anderson Cancer Center
           company_url: ''
-          company_logo: MDD
+          company_logo: MD
           location: Houston Tx
           date_start: '2020-02-01'
           date_end: '2023-01-01'
