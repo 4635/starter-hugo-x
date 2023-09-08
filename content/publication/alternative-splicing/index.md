@@ -29,9 +29,9 @@ abstract: Alternative splicing (AS) is an essential mechanism in post-transcript
 
 # tags:
 # - Source Themes
-# featured: false
+featured: True
 
-links: 
+# links: 
 # - name: ""
   url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4300919/"
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
