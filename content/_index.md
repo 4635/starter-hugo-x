@@ -294,7 +294,7 @@ sections:
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: dxjbb.ut@gmail.com
-      phone: 832 713 4210
+      phone: 
       appointment_url: 'https://calendly.com'
       # address:
       #   street: 15415 Freestone Peach Ln
